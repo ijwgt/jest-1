@@ -1,3 +1,3 @@
 CI Test Demo
 
-[![Build status](https://ci.appveyor.com/api/projects/status/5vus40xiwcd23on6?svg=true)](https://ci.appveyor.com/project/ijwgt/jest)
+[![Build status](https://ci.appveyor.com/api/projects/status/s4oe71iu432lpi57?svg=true)](https://ci.appveyor.com/project/ijwgt/jest-1)
